@@ -1,0 +1,71 @@
+{
+    "name": "CloverETL",
+    "description": "CloverETL is a Java-based data integration software (ETL) for rapid development and automation of data transformations, data cleansing and data quality, data migration and distribution of data into applications, databases, cloud and data warehouses.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/113-cloveretl.jpg",
+    "tags": [
+        "api service provider",
+        "automation",
+        "have api",
+        "interoperability",
+        "ipaas"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cloveretl\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CloverETL",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/113-cloveretl.jpg",
+            "humanURL": "http:\/\/www.cloveretl.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloveretl-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloveretl-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.cloveretl.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.cloveretl.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/javlin"
+        },
+        {
+            "type": "Email",
+            "url": "support@cloveretl.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@cloveretl.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CloverETL"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CloverETL"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.cloveretl.com\/"
+        }
+    ]
+}
